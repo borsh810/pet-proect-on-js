@@ -1,7 +1,6 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^0.17.0"
-  }
+    "json-server": "^0.17.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borsh810/hihi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/borsh810/hihi/issues"
+  },
+  "homepage": "https://github.com/borsh810/hihi#readme",
+  "description": ""
 }
